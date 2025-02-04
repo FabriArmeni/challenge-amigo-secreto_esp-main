@@ -1,2 +1,1 @@
-# challenge-amigo-secreto_esp-main
-Primer del curso Principiante en Programación
+<h1 align="center"> Challenge amigo secreto </h1>
