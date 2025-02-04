@@ -18,4 +18,4 @@ Este proyecto es una página web interactiva de Amigo Secreto, donde los usuario
 <h2> Informacion Personal </h2>
 <p>Mi nombre es Fabricio Armeni, soy de Argentina, Provincia de Buenos Aires. Y este es mi primer challenge para el curso de "Formación Principiante en Programación G8", para Alura Latam.
 Aca les dejo el link de la pagina por si quieren usarla y/o modificarla a su gusto.</p>
-<strong>link: ... </strong>strong>
+<strong>link: https://fabriarmeni.github.io/challenge-amigo-secreto_esp-main/ </strong>
